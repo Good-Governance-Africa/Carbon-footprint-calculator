@@ -20,3 +20,8 @@ Section of questions for companies :
 Inspiring examples:
 
 1. [WWF](https://footprint.wwf.org.uk/#/results/)
+
+
+Sources to base calculations from :
+
+1. [My climate.org](https://www.myclimate.org/)
