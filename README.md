@@ -24,4 +24,4 @@ Inspiring examples:
 
 Sources to base calculations from :
 
-1. [My climate.org](https://www.myclimate.org/)
+1. [My climate.org](https://www.myclimate.org/) - useful for [events](https://co2.myclimate.org/en/portfolios?calculation_id=4369672&localized_currency=GBP) carbon emissions 
